@@ -17,11 +17,11 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Newbie game developer
+- Back-end developer passionate about dark chocolate
+- Integration and automation specialist
+- Currently studying game development at PUC
+- Currently working at [Techmax Soluções](https://www.techmaxsolucoes.com.br/)
 
 <br><br>
 
@@ -48,10 +48,6 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     
 <br>
 
@@ -62,6 +58,7 @@
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg2ksUXUV3eR2i7QIYqfOVSUsqDTfgsV7VS-Md9H5d&s" alt="drawing" width="87.55"/>
 
 <br>
 
