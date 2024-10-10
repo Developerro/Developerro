@@ -22,7 +22,7 @@
 - Back-end developer passionate about dark chocolate
 - Integration and automation specialist
 - Currently studying game development at PUC
-- Currently working at [Techmax Soluções](https://www.techmaxsolucoes.com.br/)
+- Currently working at [Aptitude Technologies](https://www.aptitudetech.net/)
 
 <br><br>
 
